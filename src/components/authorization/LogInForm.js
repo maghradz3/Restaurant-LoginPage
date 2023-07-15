@@ -80,7 +80,7 @@ export const LogInForm = () => {
       <StyledSocialButtons>
         <img src={gmailVector} />
         <Text size="12px" color="#2F372D" weight="600">
-          განაგრძე Facebook-ით
+          განაგრძე Google-ით
         </Text>
       </StyledSocialButtons>
     </StyledFormControl>
