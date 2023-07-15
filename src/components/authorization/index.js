@@ -1,0 +1,1 @@
+export { AuthCont } from "./AuthCont";
