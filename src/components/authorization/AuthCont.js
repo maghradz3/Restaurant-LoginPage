@@ -30,7 +30,7 @@ const StyledImageBox = styled(Box)(() => ({
   alignSelf: "flex-start",
   paddingTop: "35px",
   overflow: "hidden",
-  border: "2px solid red",
+  // border: "2px solid red",
   "@media only screen and (max-width: 900px)": {
     width: "48%",
     height: "48%",
